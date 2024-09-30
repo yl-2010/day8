@@ -3,7 +3,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 h1 {
-    color: rgb(69, 65, 241);
+    color: rgb(128, 117, 138);
     font-family: "proxima-soft", sans-serif;
     font-weight: 900;
     font-style: normal;
@@ -12,7 +12,7 @@ h1 {
     margin: 0px;
 }
 h2 {
-    color: rgb(69, 65, 241);
+    color: rgb(180, 115, 74);
     font-family: "proxima-soft", sans-serif;
     font-weight: 900;
     font-style: normal;
@@ -21,13 +21,13 @@ h3 {
     font-size: medium;
     font-weight: 500;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: rgb(74, 74, 98);
+    color: rgb(81, 71, 90);
 }
 p {
     font-size: medium;
     font-weight: 500;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: rgb(105, 105, 105);
+    color: rgb(81, 71, 90);
 }
 
 
@@ -40,7 +40,7 @@ p {
     left: 0;
     height: 96%;
     width: 20%;
-    background-color: rgb(71, 82, 100);
+    background-color: rgb(227, 137, 113);
     padding-top: .5%;
     flex-direction: column;
     align-items: center;
@@ -50,7 +50,7 @@ p {
 
 
 .veryback {
-    background-color: rgb(71, 82, 100);
+    background-color: rgb(227, 137, 113);
     position: fixed;
     height: 100%;
     width: 100%;
@@ -62,7 +62,7 @@ p {
     left: 20%;
     width: 79.5%;
     height: 94.5%;
-    background-color: rgb(254, 252, 238);
+    background-color: rgb(233, 174, 158);
     border-radius: 5px;
     margin-top: .5%;
     margin-bottom: .5%;
@@ -93,7 +93,7 @@ p {
     text-overflow: ellipsis;
 }
 .navbar a:hover {
-    background-color: rgb(83, 94, 111);
+    background-color: rgb(183, 140, 148);
 }
 
 
@@ -111,10 +111,10 @@ p {
     line-height: 200%;
     width: 100%;
     height: 30px;
-    background-color: rgb(75, 89, 109);
+    background-color: rgb(202, 169, 175);
 }
 .favoriteblock:hover {
-    background-color: rgb(93, 107, 127);
+    background-color: rgb(221, 199, 203);
 }
 
 
@@ -124,13 +124,13 @@ p {
     line-height: 200%;
     width: 100%;
     height: 30px;
-    background-color: rgb(120, 130, 145);
+    background-color: rgb(207, 177, 183);
     border-color: rgb(92, 105, 108);
     border-style: solid;
     border-width: 1px;
 }
 .navbar .favactive:hover {
-    background-color: rgb(135, 145, 160);
+    background-color: rgb(216, 190, 194);
     border-color: rgb(92, 105, 108);
     border-style: solid;
     border-width: 1px;
@@ -140,10 +140,10 @@ p {
 
 
 .active a{
-    background-color: rgb(99, 111, 129);
+    background-color: rgb(170, 142, 147);
 }
 .active a:hover {
-    background-color: rgb(106, 118, 135);
+    background-color: rgb(195, 166, 171);
     border-color: rgb(92, 105, 108);
     border-style: solid;
     border-width: 1px;
